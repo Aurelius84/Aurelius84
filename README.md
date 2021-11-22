@@ -7,7 +7,7 @@
 
 - 🔭 **Deep Learning Framework Engineer**
 - 🌱 **C++ & CUDA Programming**
-- 👯 **[PaddlePaddle](https://github.com/PaddlePaddle/Paddle) (Baidu.Inc)**
+- 👯 **[PaddlePaddle](https://github.com/PaddlePaddle/Paddle) (Baidu)**
 - 💬 **My Blogs:** www.coconlp.com
 
 
