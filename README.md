@@ -2,7 +2,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Aurelius84&theme=dark&show_icons=true">
 
-<br>Welcome to my page!</br> I'm Aurelius84.
+<br>Welcome to my page! I'm Aurelius84. </br>
 
 
 - 🔭 **Deep Learning Framework Engineer**
