@@ -1,5 +1,8 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+<br>Welcome to my page!</br>
+
+I'm Aurelius84.
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Aurelius84&theme=dark&show_icons=true">
 
