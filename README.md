@@ -11,4 +11,4 @@
 - 💬 **My Blogs:** https://www.cnblogs.com/CocoML/
 
 
-My two favorite books are 《Meditations》from Aurelius and 《1Q84》 from Haruki Murakami， which is the origin of my name Aurelius84.
+My two favorite books are 《Meditations（沉思录）》from Aurelius and 《1Q84》 from Haruki Murakami（村上春树）， which is the origin of my name Aurelius84.
