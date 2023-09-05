@@ -1,14 +1,14 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!  I'm Aurelius84.</h1>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Aurelius84&theme=dark&show_icons=true">
+<h3> 👦🏻 About me</h3>
 
-<br>Welcome to my page! I'm Aurelius84. </br>
-
-
-- 🔭 **Deep Learning Framework Engineer**
-- 🌱 **C++ & CUDA Programming**
-- 👯 **[PaddlePaddle](https://github.com/PaddlePaddle/Paddle) (Baidu)**
-- 💬 **My Blogs:** https://www.cnblogs.com/CocoML/
+- 🔭 **Career:** Deep Learning Framework Engineer
+- 🔧 **Tools:** C++ & CUDA Programming
+- 👯 **Organization：** [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) (Baidu)
+- 💬 **My Blogs:** [CocoML📚]( https://www.cnblogs.com/CocoML/)
+<br>
 
 
-My two favorite books are 《Meditations（沉思录）》from Aurelius and 《1984》 from George Orwell， which is the origin of my name Aurelius84.
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aurelius84&theme=tokyonight&show_icons=true"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aurelius84&hide_border=true&theme=tokyonight"></p>
