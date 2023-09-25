@@ -15,24 +15,19 @@
 - 💬 **My Blogs:** [CocoML📚](https://www.cnblogs.com/CocoML/)
 
 <h3> 📚 Recent Blog</h3>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🤖 AI Compiler 
-  - <a href='https://www.cnblogs.com/CocoML/p/14643355.html' target='_blank'>源码研读 — TVM中的IR设计与技术实现</a>
-  - <a href='https://www.cnblogs.com/CocoML/p/17632342.html' target='_blank'> 源码研读 - MLIR Dialect 分层设计</a>
-  - <a href='https://www.cnblogs.com/CocoML/p/17465322.html' target='_blank'> 源码研读 - AI编译器 CINN v.s TVM 中 CodeGen</a>
-  - <a href='https://www.cnblogs.com/CocoML/p/17376187.html' target='_blank'> 源码研读 - Triton 基础机制 </a>
+- 🤖 AI Compiler
   - <a href='https://www.cnblogs.com/CocoML/p/14190550.html' target='_blank'> 源码研读 - 浅析 TensorFlow Runtime 技术 </a>
-  
+  - <a href='https://www.cnblogs.com/CocoML/p/14643355.html' target='_blank'>源码研读 — TVM中的 IR 设计与技术实现</a>
+  - <a href='https://www.cnblogs.com/CocoML/p/17632342.html' target='_blank'> 源码研读 - MLIR Dialect 分层设计</a>
+  - <a href='https://www.cnblogs.com/CocoML/p/17376187.html' target='_blank'> 源码研读 - Triton 基础机制 </a>
   
 - 🔧 深度学习框架
-  - <a href='https://www.cnblogs.com/CocoML/p/14105729.html' target='_blank'>Paddle源码之内存管理技术 </a>
   - <a href='https://www.cnblogs.com/CocoML/p/16735356.html' target='_blank'>飞桨PaddleLite架构研读</a>
+  - <a href='https://www.cnblogs.com/CocoML/p/14105729.html' target='_blank'>Paddle源码之内存管理技术 </a>
   - <a href='https://www.cnblogs.com/CocoML/p/17393409.html' target='_blank'>飞桨Paddle动转静@to_static技术设计</a>
-
-
-- CUDA 性能优化
   - <a href='https://www.cnblogs.com/CocoML/p/17393340.html' target='_blank'>cuBlas API Launch Latency 耗时异常分析记录</a>
-  - <a href='https://www.cnblogs.com/CocoML/p/17376020.html' target='_blank'>CUDA 的随机数算法 API</a>
 
 
 - 🤔 个人思考
