@@ -13,7 +13,7 @@
 - 🔧 **Tools:** C++ & CUDA Programming
 - 👯 **Organization：** [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) (Baidu)
 - 💬 **My Blogs:** [CocoML📚](https://www.cnblogs.com/CocoML/)
-- 🙋🏻‍♀️ ** About 84:** It's from 《1984》 from George Orwell, I am born in the 90s indeed.
+- 🙋🏻‍♀️ **About 84:** It's from [《1984》 by George Orwell](https://book.douban.com/subject/4820710/), I am born in the 90s indeed.
 
 <h3> 📚 Recent Blog</h3>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
