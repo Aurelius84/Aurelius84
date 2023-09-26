@@ -38,4 +38,4 @@
   - <a href='https://www.cnblogs.com/CocoML/p/17407686.html' target='_blank'>工程师的十条精进原则</a>
 
 
-<p align="center"><img width=45% src="https://github-readme-stats.vercel.app/api?username=Aurelius84&theme=tokyonight&show_icons=true"> <img width=47.7%  src="https://streak-stats.demolab.com/?user=Aurelius84&hide_border=true&theme=tokyonight"></p>
+<p align="center"><img width=45% src="https://github-readme-stats.vercel.app/api?username=Aurelius84&theme=tokyonight&show_icons=true"> <img width=34% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelius84&hide_border=true&theme=tokyonight&hide=TeX&layout=compact"></p>
