@@ -6,6 +6,15 @@
    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="92%" height="3">
 </p>
 
+<p align="center">
+   <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white">
+   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c">
+   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
+   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
+   <img src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white">
+   
+</p>
 
 <h3> 👦🏻 About me</h3>
 
