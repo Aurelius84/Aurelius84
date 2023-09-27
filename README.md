@@ -13,6 +13,7 @@
    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
    <img src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white">
+   <img src="https://api.visitorbadge.io/api/visitors?path=Aurelius84%2FAurelius84&labelColor=%2337d67a&countColor=%23d9e3f0" width="85"%>
    
 </p>
 
