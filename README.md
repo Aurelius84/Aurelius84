@@ -38,14 +38,16 @@
 - <h4>🔧 深度学习框架</h4>
 
   - <a href='https://www.cnblogs.com/CocoML/p/18404314' target='_blank'>Megatron-LLM 框架源码研读</a>
+  - <a href='https://www.cnblogs.com/CocoML/p/18290645.html' target='_blank'>分布式混合并行训练关键技术解读</a>
   - <a href='https://www.cnblogs.com/CocoML/p/18294295' target='_blank'>Paddle2ONNX 架构设计</a>
   - <a href='https://www.cnblogs.com/CocoML/p/14105729.html' target='_blank'>Paddle源码之内存管理技术 </a>
-  - <a href='https://www.cnblogs.com/CocoML/p/17393409.html' target='_blank'>飞桨Paddle动转静@to_static技术设计</a>
 
 - <h4>🤔 个人思考</h4>
 
   - <a href='https://www.cnblogs.com/CocoML/p/17407759.html' target='_blank'>工作中如何做好技术积累</a>
   - <a href='https://www.cnblogs.com/CocoML/p/17407686.html' target='_blank'>工程师的十条精进原则</a>
+  - <a href='https://www.cnblogs.com/CocoML/p/18290628.html' target='_blank'>大模型如何提升训练效率</a>
+  
 
 
 <p align="center"><img width=45% src="https://github-readme-stats.vercel.app/api?username=Aurelius84&theme=tokyonight&show_icons=true"> <img width=34% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelius84&hide_border=true&theme=tokyonight&hide=TeX&layout=compact"></p>
