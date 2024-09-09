@@ -37,10 +37,10 @@
 
 - <h4>🔧 深度学习框架</h4>
 
-  - <a href='https://www.cnblogs.com/CocoML/p/16735356.html' target='_blank'>飞桨PaddleLite架构研读</a>
+  - <a href='https://www.cnblogs.com/CocoML/p/18404314' target='_blank'>Megatron-LLM 框架源码研读</a>
+  - <a href='https://www.cnblogs.com/CocoML/p/18294295' target='_blank'>Paddle2ONNX 架构设计</a>
   - <a href='https://www.cnblogs.com/CocoML/p/14105729.html' target='_blank'>Paddle源码之内存管理技术 </a>
   - <a href='https://www.cnblogs.com/CocoML/p/17393409.html' target='_blank'>飞桨Paddle动转静@to_static技术设计</a>
-  - <a href='https://www.cnblogs.com/CocoML/p/17393340.html' target='_blank'>cuBlas API Launch Latency 耗时异常分析记录</a>
 
 - <h4>🤔 个人思考</h4>
 
